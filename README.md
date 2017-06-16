@@ -9,7 +9,7 @@ This week's coding challenge is to implement gradient descent to find the line o
 ## Overview
 
 This is the code for [this](https://youtu.be/xRJCOz3AfYY) video on Youtube by Siraj Raval. The dataset represents distance cycled 
-vs calories burned. We'll create the line of best fit (linear regression) via gradient descent to predict the mapping.
+vs calories burned. We'll create the line of best fit (linear regression) via gradient descent to predict the mapping. yes, I left out talking about the learning rate in the video, we're not ready to talk about that yet. 
 
 Here are some helpful links:
 
