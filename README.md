@@ -14,13 +14,13 @@ vs calories burned. We'll create the line of best fit (linear regression) via gr
 Here are some helpful links:
 
 #### Gradient descent visualization
-https://raw.githubusercontent.com/mattnedrich/GradientDescentExample/master/gradient_descent_example.gif
+![gradient_descent](https://raw.githubusercontent.com/mattnedrich/GradientDescentExample/master/gradient_descent_example.gif)
 
 #### Sum of squared distances formula (to calculate our error)
-https://spin.atomicobject.com/wp-content/uploads/linear_regression_error1.png
+![linear_regression](https://spin.atomicobject.com/wp-content/uploads/linear_regression_error1.png)
 
 #### Partial derivative with respect to b and m (to perform gradient descent)
-https://spin.atomicobject.com/wp-content/uploads/linear_regression_gradient1.png
+![linear_regression_gradients_1](https://spin.atomicobject.com/wp-content/uploads/linear_regression_gradient1.png)
 
 ## Dependencies
 
